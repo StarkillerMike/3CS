@@ -7,3 +7,9 @@ They will all contain different things that will contribute to our end product.
 You will be able to download our Discord bot script aswell as our MySQL database creation queries so that you can recreate our working environment.
 
 ----------------------------------------------------------------------------------------------------------------------------------
+
+The MySQL files are to recreate the database.
+
+The bot.py file is to launch the bot and add commands
+
+----------------------------------------------------------------------------------------------------------------------------------
