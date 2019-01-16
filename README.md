@@ -14,6 +14,8 @@ HOW TO USE:
 bot.py:
 ----------------------------------------------------------------------------------------------------------------------------------
 To use the script you simpily have to run it (given that you've altered the database connection info and added your own bot token)
+For the database commands you need to alter the database request to fit with your own database.
+The weather commands work without the use of a database
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
@@ -27,7 +29,7 @@ You can copy the SQLQueries from those files and use them in MySQL Workbench to 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
-Create your own bot:
+Create your own discord bot:
 ----------------------------------------------------------------------------------------------------------------------------------
 1. If you don't have a discord account, go to discordapp.com and create an account.
 2. Go to discordapp.com/developers/applications/me and click the "Create an application" button.
