@@ -6,6 +6,9 @@ They will all contain different things that will contribute to our end product.
 
 You will be able to download our Discord bot script aswell as our MySQL database creation queries so that you can recreate our working environment.
 
+Inviting our discord bot:
+You can invite our discord bot to your discord server using this link: https://discordapp.com/oauth2/authorize?client_id=292390094072053760&scope=bot&permissions=8
+
 ----------------------------------------------------------------------------------------------------------------------------------
 HOW TO USE:
 ----------------------------------------------------------------------------------------------------------------------------------
